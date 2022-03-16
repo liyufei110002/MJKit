@@ -1,0 +1,22 @@
+{
+  "name": "MJKit",
+  "version": "0.1.0",
+  "summary": "A short description of MJKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kangchunhui/MJKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kangchunhui": "421761615@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/kangchunhui/MJKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MJKit/Classes/**/*"
+}
