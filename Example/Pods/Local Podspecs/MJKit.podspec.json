@@ -1,6 +1,6 @@
 {
   "name": "MJKit",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A short description of MJKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/liyufei110002",
@@ -13,10 +13,15 @@
   },
   "source": {
     "git": "https://github.com/liyufei110002/MJKit.git",
-    "tag": "0.2.0"
+    "tag": "0.3.0"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "MJKit/Classes/**/*"
+  "source_files": "MJKit/Classes/**/*",
+  "resource_bundles": {
+    "MJKit": [
+      "MJKit/Assets/*.png"
+    ]
+  }
 }
