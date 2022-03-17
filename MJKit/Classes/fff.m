@@ -9,4 +9,14 @@
 
 @implementation fff
 
+- (NSString*)apple
+{
+    return @"ckdfldf";
+}
+
+- (void)peint
+{
+    NSLog(@"%@",self.apple);
+}
+
 @end

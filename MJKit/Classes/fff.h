@@ -9,7 +9,13 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface fff : NSObject
+@protocol DSDelere <NSObject>
+
+@property(nonatomic,strong)NSString*apple;
+
+@end
+
+@interface fff : NSObject<DSDelere>
 
 @end
 
