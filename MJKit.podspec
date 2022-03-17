@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MJKit'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'A short description of MJKit.'
 
 # This description is used to generate tags and improve search results.
@@ -16,6 +16,7 @@ Pod::Spec.new do |s|
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
+#https://github.com/liyufei110002/Newober.git
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
@@ -32,9 +33,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'MJKit/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'MJKit' => ['MJKit/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'MJKit' => ['MJKit/Assets/*.png']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

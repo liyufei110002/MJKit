@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "CreateInfo.h"
+#import "fff.h"
 
 FOUNDATION_EXPORT double MJKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char MJKitVersionString[];

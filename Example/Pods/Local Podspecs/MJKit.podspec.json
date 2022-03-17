@@ -1,9 +1,9 @@
 {
   "name": "MJKit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A short description of MJKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/kangchunhui/MJKit",
+  "homepage": "https://github.com/liyufei110002",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "kangchunhui": "421761615@qq.com"
   },
   "source": {
-    "git": "https://github.com/kangchunhui/MJKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/liyufei110002/MJKit.git",
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "9.0"
