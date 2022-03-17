@@ -34,10 +34,14 @@ TODO: Add long description of the pod here.
   s.source_files = 'MJKit/Classes/**/*'
   
   s.resource_bundles = {
-     'MJKit' => ['MJKit/Assets/*']
+     'MJKit' => ['MJKit/Assets/*.png']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
+
+#pod lib lint --use-libraries --allow-warnings
+#pod spec lint --use-libraries --allow-warnings
+#pod repo push MJSpecs MJKit.podspec --use-libraries --allow-warnings
