@@ -1,5 +1,5 @@
 PODS:
-  - MJKit (0.4.0)
+  - MJKit (0.5.0)
 
 DEPENDENCIES:
   - MJKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MJKit: f3ac612783a011e417c848265a45e48e474b0bfa
+  MJKit: 994d9cc52080c79bb34dfc4b67af056b8e0d32a3
 
 PODFILE CHECKSUM: c81a92409110e1373e2b5f9abe40d95cf02008e0
 
